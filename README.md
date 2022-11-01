@@ -1,13 +1,13 @@
 # PLAYFAIR-CIPHER
 Tugas Pertemuan 6 - KRIPTOGRAFI
 
-```
+
 | Nama      | RAFI UBAIDILLAH |
 | --------- | ----------- |
 | NIM     | 312010090      |
 | Kelas   | TI.20.A.1        |
 | Mata Kuliah | Kriptografi |
-```
+
 
 # PLAYFAIR-CIPHER-PYTHON-
 
